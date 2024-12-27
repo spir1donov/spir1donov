@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/7a5e86da-87c1-421c-97ca-2909ce6fadcc.svg)](https://wakatime.com/@7a5e86da-87c1-421c-97ca-2909ce6fadcc)
 <!--
 **spir1donov/spir1donov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
